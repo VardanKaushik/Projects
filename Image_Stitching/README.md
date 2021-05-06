@@ -1,0 +1,5 @@
+
+#Image Stitching Project
+
+Open the python file in goolge colab</br>
+Upload the images in colab and then run the code.
