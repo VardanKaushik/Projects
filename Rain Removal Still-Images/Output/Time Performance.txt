@@ -1,0 +1,3 @@
+Total time taken for execution using Row-Mean Rain Detection = 45.580103397369385
+Total time taken for execution using Luminance Rain Detection = 14.16974949836731
+Total time taken for execution using Canny Edge Detection = 30.969623804092407
